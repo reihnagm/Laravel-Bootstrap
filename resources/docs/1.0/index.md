@@ -1,0 +1,16 @@
+- ## SP2D
+    - [Objek Pajak](/{{route}}/{{version}}/SP2D/objek-pajak)
+    - [Pembayaran](/{{route}}/{{version}}/SP2D/pembayaran)
+    - [Pelaporan](/{{route}}/{{version}}/SP2D/pelaporan)
+    - [Pelayanan](/{{route}}/{{version}}/SP2D/pelayanan)
+    - [Store Setoran Masa](/{{route}}/{{version}}/SP2D/store-setoran-masa)
+    - [Store Pelaporan](/{{route}}/{{version}}/SP2D/store-pelaporan)
+    - [Update Pelaporan](/{{route}}/{{version}}/SP2D/update-pelaporan)
+- ## PBBKB
+    - [Objek Pajak](/{{route}}/{{version}}/PBBKB/objek-pajak)
+    - [Pembayaran](/{{route}}/{{version}}/PBBKB/pembayaran)
+    - [Pelaporan](/{{route}}/{{version}}/PBBKB/pelaporan)
+    - [Pelayanan](/{{route}}/{{version}}/PBBKB/pelayanan)
+    - [Store Setoran Masa](/{{route}}/{{version}}/SP2D/store-pelaporan)
+    - [Store Pelaporan](/{{route}}/{{version}}/PBBKB/store-pelaporan)
+    - [Update Pelaporan](/{{route}}/{{version}}/PBBKB/update-pelaporan)
